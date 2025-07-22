@@ -13,14 +13,14 @@ This is a simple and responsive **Bus Services** website designed using **HTML**
 
 ### 🖼️ Homepage
 
-![Homepage](/Capture 1.PNG)
+![Homepage](/Capture%201.png)
 
 ### 📱 Popular Services
 
-![Popular-Services](/Capture 3.PNG)
+![Popular-Services](/Capture%203.PNG)
 ### 🖼️ Happy Customers
 
-![HappyCustomers](/Capture 5.PNG)
+![HappyCustomers](/Capture%205.PNG)
 
 
 
