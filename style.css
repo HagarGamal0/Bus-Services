@@ -690,7 +690,7 @@ nav .nav-links .burger {
 
 
 
-/* Most Popular Services Section (from fig4.png) */
+/* Most Popular Services Section  */
 
 
 .section-title-pink {
@@ -717,13 +717,11 @@ nav .nav-links .burger {
   font-family: "Work Sans", sans-serif;
 }
 
-/* Section Styling */
 .most-popular-services {
   background-color: #f7f7f7;
   padding: 60px 0;
 }
 
-/* Grid Layout */
 .pricing-grid {
   display: flex;
   justify-content: center;
@@ -789,7 +787,6 @@ nav .nav-links .burger {
   line-height: 1;
 }
 
-/* /Room Text */
 .per-room {
   font-size: px;
   color: #333;
@@ -798,7 +795,6 @@ nav .nav-links .burger {
   text-align: center;
 }
 
-/* Description */
 .price-description {
   font-size: 14px;
   color: #777;
@@ -811,7 +807,6 @@ nav .nav-links .burger {
   color: #fff;
 }
 
-/* Button Styling */
 .request-service-btn {
   background-color: #ff007f;
   color: #fff;
@@ -828,7 +823,7 @@ nav .nav-links .burger {
   background-color: #fff;
   color: #ff007f;
 }
-/* Our Portfolio Section */
+
 .our-portfolio {
   background-color: #ffffff;
   padding: 60px 0 80px 0;
@@ -875,7 +870,7 @@ nav .nav-links .burger {
   margin: 0;
 }
 
-/* Happy Customers Section (from fig5.png) */
+/* Happy Customers Section */
 .happy-customers {
   background-color: #ffffff;
   padding: 60px 0;
@@ -1138,7 +1133,6 @@ border-radius: 50%;
 
 
 
-/* Contact Section (from fig6.png) */
 
 
 
@@ -1262,7 +1256,6 @@ border-radius: 50%;
 }
 
 
-/* Footer Section (from fig7.png) */
 .main-footer {
   background-color: #2D2D2D; 
   color: #fff;
